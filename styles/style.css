@@ -1,0 +1,191 @@
+* {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+  }
+  /* header bannar */
+  .header {
+    text-align: center;
+    background-image: url(../images/banner/banner1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+  }
+  .bannar-header {
+    text-align: right;
+    float: right;
+    margin: 250px;
+  }
+  
+  .description {
+    color: grey;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .bannar-title {
+    font-size: 50px;
+    font-weight: 70px;
+  }
+  /* button */
+  .btn-primary {
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 4px 2px;
+    background-color: orangered;
+  }
+  /* main section 1 */
+  .my-failurs {
+    display: flex;
+    justify-content: space-between;
+    margin: 120px;
+  }
+  .failurs-title {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  .failurs-img {
+    padding-left: 80px;
+  }
+  .failurs-details {
+    margin-top: 220px;
+    margin-right: 200px;
+  }
+  /* section 2 */
+  .my-plans-div {
+    display: flex;
+    justify-content: center;
+  }
+  .failurs-title-1 {
+    font-size: 32px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .skill-web {
+    margin-left: 20px;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  .skill-para {
+    font-size: 22px;
+    color: grey;
+  }
+  /* my section 3 */
+  .my-section {
+    display: flex;
+    justify-content: center;
+    margin: 150px;
+    background-color: white;
+  }
+  .self-confidence {
+    width: 50%;
+  }
+  .my-section-title {
+    font-size: 32px;
+    font-weight: 50px;
+    text-align: center;
+    margin: 30px 300px;
+  }
+  .my-photo {
+    margin-left: 40px;
+  }
+  .span {
+    color: goldenrod;
+  }
+  /* section 4*/
+  .awlays-positive {
+    margin-bottom: 200px;
+  }
+  .btn-primary1 {
+    border: none;
+    border-radius: 5px;
+    color: orange;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 4px 2px;
+    background-color: white;
+  }
+  .watch-img {
+    margin-left: 100px 200px;
+    background: linear-gradient(45deg, rgba(234, 95, 14, 0.489), blue);
+    border-radius: 15px;
+  
+    margin-left: 50px;
+  }
+  .watch-title {
+    font-size: 25px;
+    color: white;
+    padding: 20px;
+  }
+  .watch-div {
+    margin-left: 200px;
+  }
+  .watch-item {
+    margin-left: 300px;
+    margin-top: -200px;
+  }
+  /* section 5 future */
+  /* .future {
+    display: flex;
+    margin: 20px;
+  }
+  .social-media-item {
+    display: flex;
+  } */
+  .social-media-items {
+    display: flex;
+  }
+  .future-section {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+  }
+  .btn-subscribe {
+    border: none;
+    border-radius: 5px;
+    color: orangered;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 4px 2px;
+    background-color: white;
+  }
+  .future-details {
+    margin: 150px 100px;
+  }
+  .button-details {
+    margin-top: 200px;
+    margin-right: 200px;
+  }
+  .future-title {
+    font-size: 35px;
+    margin-bottom: 20px;
+  }
+  .future-title-sub {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .placeholder {
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    padding: 10px 10px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border: 1px solid white;
+    margin-bottom: 20px;
+  }
+  .common {
+    margin-left: 10px;
+  }
